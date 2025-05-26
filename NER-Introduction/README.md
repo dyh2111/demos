@@ -1,6 +1,7 @@
 # NER – Named Entity Recognition, an Introduction
 
-By Dan Harvey
+By Dan Harvey  
+
 📧 dan \[at] danielyusay.com
 📧 daniel.harvey \[at] columbia.edu
 
