@@ -16,13 +16,15 @@ This demo simulates a basic RAG-style inference loop for answering natural langu
 
 ### 🔄 Workflow
 
-1. **User Prompt**  
+1. **User Prompt**
    - Accepts natural language questions via an input field.
+   - ![user question](./src/question.png)
 
 2. **Upload Reference Document**  
    - Supports `.txt` and `.pdf` formats  
    - Parses and preprocesses content for retrieval
-
+   - ![image of upload dialog](./src/upload.png)
+     
 3. **Prompt + Context → LLM**  
    - Injects both user prompt and relevant document content into a structured template  
    - Uses a local LLM (`Qwen3-4B`) for generation
@@ -30,6 +32,7 @@ This demo simulates a basic RAG-style inference loop for answering natural langu
 4. **Answer / Inference Output**  
    - Returns structured answers with citation-style justification  
    - Optional: Explains reasoning before providing a final answer
+   - ![inference](./src/results.png)
 
 ---
 
