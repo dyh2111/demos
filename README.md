@@ -14,7 +14,7 @@ Author: **Dan Harvey**
 
 These are functional or semi-complete builds focused on specific ideas or implementations.
 
-- **🧠 [RAG-Practical](./RAG-Practical/)**  
+- **🧠 [RAG - A Simplified, Single Document Implementation](./RAG-Simple-Demo/)**  
   Hands-on walkthrough of a simplified Retrieval-Augmented Generation system — combining document retrieval and structured prompting to generate grounded responses from a small LLM.  This is a learning prototype, not a full document → embedding → vector DB pipeline.
 
 <!-- Add more project links here -->
