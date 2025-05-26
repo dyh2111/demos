@@ -33,6 +33,10 @@ These are early-stage builds, drafts, or experiments I’m still working through
 - **[LLM Patch Inference](./LLM-Patch-Inference/)**  
   Patch-based classification using ViTs and a global routing FFN to infer image-level labels from local predictions.
 
+- **[NER – Named Entity Recognition, an Introduction](./NER-Introduction/)**  
+  An intro on Named Entity Recognition (NER), a foundational NLP technique used to identify and classify entities like people, places, and domain-specific terms — useful for tagging, segmenting, and structuring unstructured text.
+
+
 <!-- Add more in-progress folders as they come up -->
 
 ---
