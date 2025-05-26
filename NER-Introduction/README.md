@@ -11,8 +11,6 @@ Named Entity Recognition (NER) is the task of locating and classifying entities 
 
 Modern NER is foundational for population of structured or knowledge databases, search engine enhancement, document categorization, question answering systems, chatbots, and entity linking. It is also integral to modern hybrid systems like Retrieval-Augmented Generation (RAG) and GraphRAG, where structured entities guide semantic search and query generation.
 
----
-
 ## History of NER
 
 My initial exposure to NER began during my undergraduate studies in COMS4705 Natural Language Processing with Professor Daniel Bauer, where we started with early systems that relied heavily on handcrafted and rule-based grammars. These early methods used regex, context-free grammars (CFGs), probabilistic CFGs (PCFGs), and semantic role labeling techniques like PropBank and FrameNet. While these were interpretable and heavily based in formal linguistics, these systems struggled to scale.
