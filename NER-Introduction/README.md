@@ -54,8 +54,6 @@ From rule-based chunking to RoBERTa, CNNs, and multimodal systems, the trajector
 ---
 
 ## References
-
-## References
 * Ramshaw, L. A., & Marcus, M. P. (1995). [Text Chunking using Transformation-Based Learning](https://arxiv.org/abs/cmp-lg/9505040). *Proceedings of the Third ACL Workshop on Very Large Corpora*.
 * Abdulmumin & Galadanci (2019). [hauWE: Hausa Word Embeddings](https://arxiv.org/pdf/2505.07884)
 * Ifeoluwa, Neubig, Ruder, Rijhwani, Nakatumba-Nabende, Ogundepo & Klakow (2022). [NER for African Languages](https://arxiv.org/pdf/2505.07884)
