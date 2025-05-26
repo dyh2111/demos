@@ -2,7 +2,8 @@
 
 By Dan Harvey  
 
-📧 dan \[at] danielyusay.com
+📧 dan \[at] danielyusay.com  
+
 📧 daniel.harvey \[at] columbia.edu
 
 ---
