@@ -12,7 +12,9 @@ This notebook offers a hands-on, functional walkthrough of a simplified Retrieva
 
 ## 🚀 What This Notebook Covers
 
-This demo simulates a basic RAG-style inference loop for answering natural language questions based on user-provided documents (e.g., PDF resumes).
+This demo simulates a basic RAG-style inference loop for answering natural language questions based on user-provided documents (e.g., PDF resumes).  In this notebook, we demonstrate this using a sample resume and asking questions like:
+
+> "Where did this person go to school?"
 
 ### 🔄 Workflow
 
@@ -36,30 +38,7 @@ This demo simulates a basic RAG-style inference loop for answering natural langu
 
 ---
 
-## 📌 Example Use Case
 
-In this notebook, we demonstrate this using a sample resume and asking questions like:
-
-> "Where did this person go to school?"
-
----
-
-## 📂 Files
-
-- `Practical_RAG.ipynb` — the main interactive notebook
-- `sample_resume.pdf` — example reference document used for inference
-
----
-
-## 🛠 Requirements
-
-This was written for **Google Colab** with:
-- Transformers (`transformers>=4.35`)
-- PyTorch
-- `PyMuPDF` (`fitz`) for PDF parsing
-- `ipython`, `ipywidgets` for interactive UI
-
----
 
 ## 📚 References
 
