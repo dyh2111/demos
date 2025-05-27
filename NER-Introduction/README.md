@@ -56,16 +56,17 @@ From rule-based chunking to RoBERTa, CNNs, and multimodal systems, the trajector
 ---
 
 ## References
-* Ramshaw, L. A., & Marcus, M. P. (1995). [Text Chunking using Transformation-Based Learning](https://arxiv.org/abs/cmp-lg/9505040). *Proceedings of the Third ACL Workshop on Very Large Corpora*.
+
 * Abdulmumin & Galadanci (2019). [hauWE: Hausa Word Embeddings](https://arxiv.org/pdf/2505.07884)
-* Ifeoluwa, Neubig, Ruder, Rijhwani, Nakatumba-Nabende, Ogundepo & Klakow (2022). [NER for African Languages](https://arxiv.org/pdf/2505.07884)
 * Adelani, Hedderich, Zhu, Berg & Klakow (2020). [Low-resource NER for Yoruba and Hausa](https://arxiv.org/pdf/2003.08370)
-* Omisore (2023). [Event NER in Yoruba](https://arxiv.org/pdf/2505.07884)
-* Al-Smadi, Al-Zboon, Jararweh & Juola (2020). [NER for Arabic using Pooled-GRU](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8993806)
 * Afeez, Ibrahim, Bolaji & Adedayo (2024). [OCR-to-NER with ResNet-50 for Nigerian languages](https://ceur-ws.org/Vol-3708/paper_18.pdf)
-* Urdu U-MNER (2024). [Multimodal NER in Urdu](https://arxiv.org/pdf/2505.05148)
-* Bird, S., Klein, E., & Loper, E. (2009). [NLTK Book, Chapter 7: Information Extraction](https://www.nltk.org/book/ch07.html)
-* IBM (2019). [NER Overview](https://www.ibm.com/think/topics/named-entity-recognition)
+* Al-Smadi, Al-Zboon, Jararweh & Juola (2020). [NER for Arabic using Pooled-GRU](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8993806)
 * ARTiBA (2024). [NER with NLTK: A Practical Guide](https://www.artiba.org/blog/named-entity-recognition-in-nltk-a-practical-guide)
+* Bird, S., Klein, E., & Loper, E. (2009). [NLTK Book, Chapter 7: Information Extraction](https://www.nltk.org/book/ch07.html)
 * Carreras, X., Màrquez, L., & Padró, L. (2002). Named entity extraction using AdaBoost. In Proceedings of the 6th Conference on Natural Language Learning at COLING-02 (pp. 167-170). Taipei, Taiwan. Retrieved from http://www.cnts.ua.ac.be/conll2002/ps/16770car.ps
-*  Tjong Kim Sang, E. F., & De Meulder, F. (2003). Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition. In Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003 (pp. 142-147). Retrieved from https://www.clips.uantwerpen.be/conll2003/ner/
+* IBM (2019). [NER Overview](https://www.ibm.com/think/topics/named-entity-recognition)
+* Ifeoluwa, Neubig, Ruder, Rijhwani, Nakatumba-Nabende, Ogundepo & Klakow (2022). [NER for African Languages](https://arxiv.org/pdf/2505.07884)
+* Omisore (2023). [Event NER in Yoruba](https://arxiv.org/pdf/2505.07884)
+* Ramshaw, L. A., & Marcus, M. P. (1995). [Text Chunking using Transformation-Based Learning](https://arxiv.org/abs/cmp-lg/9505040). *Proceedings of the Third ACL Workshop on Very Large Corpora*.
+* Tjong Kim Sang, E. F., & De Meulder, F. (2003). Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition. In Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003 (pp. 142-147). Retrieved from https://www.clips.uantwerpen.be/conll2003/ner/
+* Urdu U-MNER (2024). [Multimodal NER in Urdu](https://arxiv.org/pdf/2505.05148)
